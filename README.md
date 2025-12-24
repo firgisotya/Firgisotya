@@ -3,8 +3,6 @@
 </p>
 
 
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35748)](https://codetime.dev)
-
 <div size='20px'> Hi! My name is Firgi Sotya Izzuddin. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
